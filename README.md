@@ -38,9 +38,11 @@ Borrow out = A'Bin + A'B + BBin
 
 **Truthtable**
 ## FULL ADDER:
-https://images.app.goo.gl/KLKnHsuwatB5a5m7A
+![full-adder2](https://github.com/sakamalesh/FULL_ADDER_SUBTRACTOR/assets/149148235/60ca2883-1781-40dd-909d-1d6ecabb1ff4)
+
 ## FULL SUBRACTOR:
-https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.prepbytes.com%2Fblog%2Fdigital-electronics%2Ffull-subtractor%2F&psig=AOvVaw3T7ddToL8z3HpeAZJ5Vb3C&ust=1712327189624000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCIiwidzhqIUDFQAAAAAdAAAAABAE
+![1676618957648-Full Subtractor2](https://github.com/sakamalesh/FULL_ADDER_SUBTRACTOR/assets/149148235/725f0a37-58ef-4d53-be41-cf7501368452)
+
 **Procedure**
 
 Write the detailed procedure here
